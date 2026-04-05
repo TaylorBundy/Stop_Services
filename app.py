@@ -263,7 +263,7 @@ def mostrar_servicios():
         print("-" * 30)
 
     # 👇 NUEVO BLOQUE
-    print("\n==============================")
+    print("==============================")
     print(" PROCESOS DETECTADOS")
     print("==============================")
 
